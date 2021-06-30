@@ -37,7 +37,7 @@ Google colab if needed to speed up modelling.
 #### MVP Goal:
 * What would a [minimum viable product (MVP)](./mvp.md) look like for this project?
 
-MVP will have results from logistic regression as a baseline and a neural network with transfer learning and without tuning. 
+MVP will have results from logistic regression as a baseline and a neural network with transfer learning, without tuning. 
 
 
 
