@@ -2,7 +2,9 @@
 
 [American Sign Language/ASL](https://www.nidcd.nih.gov/health/american-sign-language) is a primary means of communication for deaf, hard of hearing and hearing nonverbal children who are nonverbal due to conditions such as down syndrome, autism and other speech disorders. Currently, there is a shortage of interpreters in the US and the U.S. Bureau of Labor Statistics estimates a rise of 19% ASL interpreter by 2028.
 
-The aim of this project was to interprete signs from hand images of ASL into English alphabets using neural networks. An accuracy of 0.97 was obtained using convolutional neural network was obtained. Transfer learning was attempted which could not outperform CNN. 
+The aim of this project was to interprete signs from hand images of ASL into English alphabets using neural networks. Data is downloaded from [Kaggle](https://www.kaggle.com/datamunge/sign-language-mnist) as a CSV file and consists of image information for each alphabet 
+
+An accuracy of 0.97 was obtained using convolutional neural network was obtained. Transfer learning was attempted which could not outperform CNN. 
 
 # Workflow
 
