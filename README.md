@@ -1,5 +1,25 @@
 # Interpreting Sign Language using Neural Networks
 
-[American Sign Language/ASL](https://www.nidcd.nih.gov/health/american-sign-language) is a primary means of communication for deaf, hard of hearing and hearing nonverbal children who are nonverbal due to conditions such as down syndrome, autism and other speech disorders. Deaf students are considered as a linguistic minority and I'm hoping with this project to promote awareness and acceptance of the language among others. 
+[American Sign Language/ASL](https://www.nidcd.nih.gov/health/american-sign-language) is a primary means of communication for deaf, hard of hearing and hearing nonverbal children who are nonverbal due to conditions such as down syndrome, autism and other speech disorders. Currently, there is a shortage of interpreters in the US and the U.S. Bureau of Labor Statistics estimates a rise of 19% ASL interpreter by 2028.
 
-Majority of general population is unable to communicate in sign language and the aim of this project is to interprete signs from ASL into English alphabets using neural networks. 
+The aim of this project was to interprete signs from hand images of ASL into English alphabets using neural networks. An accuracy of 0.97 was obtained using convolutional neural network was obtained. Transfer learning was attempted which could not outperform CNN. 
+
+# Workflow
+
+1. [EDA & Logistic Regression](Final_submission/1)
+2. [Convolution Neural Network](Final_submission/2) 
+3. [Attempt with Transfer Learning](Final_submission/3) 
+4. [Presentation](Final_submission/DeepLearningSlides.pdf)
+
+# Conclusion
+
+Best accuracy was obtained using CNN with 5 conv2D layers and 3 dense layers. Overfitting was addressed with drop out, batch normalization and early stopping. 
+Attempt for a better accuracy will be made in the future with more image data. 
+
+
+
+
+
+
+
+
