@@ -11,7 +11,7 @@ An accuracy of 0.97 was obtained using convolutional neural network was obtained
 1. [EDA & Logistic Regression](Final_submission/1)
 2. [Convolution Neural Network](Final_submission/2) 
 3. [Attempt with Transfer Learning](Final_submission/3) 
-4. [Presentation](Final_submission/DeepLearningSlides.pdf)
+4. [Presentation Slides](Final_submission/DeepLearningSlides.pdf)
 
 # Conclusion
 
