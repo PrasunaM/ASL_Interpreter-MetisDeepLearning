@@ -8,15 +8,21 @@ An accuracy of 0.97 was obtained using convolutional neural network was obtained
 
 # Workflow
 
-1. [EDA & Logistic Regression](Final_submission/1)
-2. [Convolution Neural Network](Final_submission/2) 
-3. [Attempt with Transfer Learning](Final_submission/3) 
+1. [EDA & Logistic Regression](https://github.com/PrasunaM/ASL_Interpreter-MetisDeepLearning/blob/4efd4bb3bda230d3f02aab0432c6f4f231ce646c/Final_submission/ASL_EDA_&_Logistic%20Regression.ipynb)
+2. [Convolution Neural Network](https://github.com/PrasunaM/ASL_Interpreter-MetisDeepLearning/blob/ab04efab1260288aee97849a23ace3a158841051/Final_submission/ASL_CNN.ipynb) 
+3. [Attempt with Transfer Learning](https://github.com/PrasunaM/ASL_Interpreter-MetisDeepLearning/blob/ef5e15a2fc2860e85d8f86a124d376cbcf0b59a4/Final_submission/ASL_CNN_TransferLearning.ipynb) 
 4. [Presentation Slides](Final_submission/DeepLearningSlides.pdf)
 
 # Conclusion
 
 Best accuracy was obtained using CNN with 5 conv2D layers and 3 dense layers. Overfitting was addressed with drop out, batch normalization and early stopping. 
 Attempt for a better accuracy will be made in the future with more image data. 
+
+# Future Work
+
+App is in process that can predict sign language alphabets in realtime. 
+
+<img src="ASL_APP.png" alt="Project_architecture" width="800" height = "600"/> 
 
 
 
