@@ -22,7 +22,7 @@ Attempt for a better accuracy will be made in the future with more image data.
 
 App is in process that can predict sign language alphabets in realtime. 
 
-<img src="ASL_APP.png" alt="Project_architecture" width="800" height = "600"/> 
+<img src="ASL_APP.png" alt="ASL_APP" width="800" height = "600"/> 
 
 
 
